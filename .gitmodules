@@ -1,0 +1,12 @@
+[submodule "hotel_admin"]
+	path = hotel_admin
+	url = https://github.com/baconbao123/hotel_admin.git
+[submodule "hotel_owner"]
+	path = hotel_owner
+	url = https://github.com/baconbao123/hotel_owner.git
+[submodule "hotel_user"]
+	path = hotel_user
+	url = https://github.com/baconbao123/hotel_user.git
+[submodule "hotel_app"]
+	path = hotel_app
+	url = https://github.com/baconbao123/hotel_app.git
